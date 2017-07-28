@@ -20,7 +20,9 @@
     "throttled",
     "throttling"
   ],
-  "dependencies": {},
+  "dependencies": {
+    "promise-redis": "0.0.5"
+  },
   "devDependencies": {
     "async": "^0.9.0",
     "chai": "^1.10.0",
